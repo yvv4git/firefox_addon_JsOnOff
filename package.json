@@ -1,0 +1,19 @@
+{
+  "title": "JsTurnOnOff",
+  "name": "jsonoff",
+  "version": "0.0.1",
+  "description": "Turn on js or turn off",
+  "main": "index.js",
+  "author": "Eliseev Vladimir Vladimirovich",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "dependencies": {
+    "jpm": "^1.3.1"
+  }
+}
